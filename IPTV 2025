@@ -83,3 +83,197 @@ https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:25,Service
 #EXTVLCOPT:network-caching=1000
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d4493aa2d690008f0a03f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21d081-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ca5a27f-794c-41ee-b51a-6fbe1b093d0b
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN Asia (576p)" tvg-logo="" group-title="MOVIE",AXN Asia (576p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="American Horrors (480p)" tvg-logo="" group-title="MOVIE",American Horrors (480p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Dunia Sinema (1080p)" tvg-logo="" group-title="MOVIE",Dunia Sinema (1080p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Afriwood Blockbuster (720p)" tvg-logo="" group-title="MOVIE",Afriwood Blockbuster (720p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC East (1080p)" tvg-logo="" group-title="MOVIE",AMC East (1080p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Black Cinema" tvg-logo="" group-title="MOVIE",Black Cinema
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Cine Sony (720p)" tvg-logo="" group-title="MOVIE",Cine Sony (720p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Cine5 (720p)" tvg-logo="" group-title="MOVIE",Cine5 (720p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Service" tvg-logo="" group-title="MOVIE",Service
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Click TV (Coronel) (720p)" tvg-logo="" group-title="MOVIE",Click TV (Coronel) (720p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Crave 2" tvg-logo="" group-title="MOVIE",Crave 2
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Crave 4" tvg-logo="" group-title="MOVIE",Crave 4
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Dateline 24/7" tvg-logo="" group-title="MOVIE",Dateline 24/7
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Service" tvg-logo="" group-title="MOVIE",Service
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Flicks of Fury" tvg-logo="" group-title="MOVIE",Flicks of Fury
+
+#EXTINF:-1 tvg-id="ext" tvg-name="FXM East" tvg-logo="" group-title="MOVIE",FXM East
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Groovy TV (360p)" tvg-logo="" group-title="MOVIE",Groovy TV (360p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Hallmark Movies & More" tvg-logo="" group-title="MOVIE",Hallmark Movies & More
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Hallmark Movies Mysteries East" tvg-logo="" group-title="MOVIE",Hallmark Movies Mysteries East
+
+#EXTINF:-1 tvg-id="ext" tvg-name="PRO MIX" tvg-logo="" group-title="MOVIE",PRO MIX
+
+#EXTINF:-1 tvg-id="ext" tvg-name="iFilm English" tvg-logo="" group-title="MOVIE",iFilm English
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Ink Master" tvg-logo="" group-title="MOVIE",Ink Master
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Service" tvg-logo="" group-title="MOVIE",Service
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Lifetime Movies East" tvg-logo="" group-title="MOVIE",Lifetime Movies East
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Made in Hollywood" tvg-logo="" group-title="MOVIE",Made in Hollywood
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Maverick Black Cinema (1080p)" tvg-logo="" group-title="MOVIE",Maverick Black Cinema (1080p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="MBC Bollywood (1080p) [Geo-blocked]" tvg-logo="" group-title="MOVIE",MBC Bollywood (1080p) [Geo-blocked]
+
+#EXTINF:-1 tvg-id="ext" tvg-name="MBC+ Drama (1080p)" tvg-logo="" group-title="MOVIE",MBC+ Drama (1080p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="MGM+ East" tvg-logo="" group-title="MOVIE",MGM+ East
+
+#EXTINF:-1 tvg-id="ext" tvg-name="MGM+ Marquee" tvg-logo="" group-title="MOVIE",MGM+ Marquee
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Movies Action (1080p)" tvg-logo="" group-title="MOVIE",Movies Action (1080p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Movies Thriller (1080p)" tvg-logo="" group-title="MOVIE",Movies Thriller (1080p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="MovieSphere (1080p)" tvg-logo="" group-title="MOVIE",MovieSphere (1080p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="MyTime Movie Network" tvg-logo="" group-title="MOVIE",MyTime Movie Network
+
+#EXTINF:-1 tvg-id="ext" tvg-name="MyTime Movie Network Brazil (720p)" tvg-logo="" group-title="MOVIE",MyTime Movie Network Brazil (720p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="NETV Toronto (720p)" tvg-logo="" group-title="MOVIE",NETV Toronto (720p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="NEW K.MOVIES (1080p)" tvg-logo="" group-title="MOVIE",NEW K.MOVIES (1080p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="OuterMax East (720p)" tvg-logo="" group-title="MOVIE",OuterMax East (720p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Paramount Movie Channel" tvg-logo="" group-title="MOVIE",Paramount Movie Channel
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Paramount Network East" tvg-logo="" group-title="MOVIE",Paramount Network East
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Service" tvg-logo="" group-title="MOVIE",Service
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Action" tvg-logo="" group-title="MOVIE",Pluto TV Action
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Action" tvg-logo="" group-title="MOVIE",Pluto TV Action
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Animals" tvg-logo="" group-title="MOVIE",Pluto TV Animals
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Romance" tvg-logo="" group-title="MOVIE",Pluto TV Romance
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Spotlight" tvg-logo="" group-title="MOVIE",Pluto TV Spotlight
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Staff Picks" tvg-logo="" group-title="MOVIE",Pluto TV Staff Picks
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Terror" tvg-logo="" group-title="MOVIE",Pluto TV Terror
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Western" tvg-logo="" group-title="MOVIE",Pluto TV Western
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Western" tvg-logo="" group-title="MOVIE",Pluto TV Western
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Western" tvg-logo="" group-title="MOVIE",Pluto TV Western
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Westerns" tvg-logo="" group-title="MOVIE",Pluto TV Westerns
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Westerns" tvg-logo="" group-title="MOVIE",Pluto TV Westerns
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten Top Movies UK (1080p)" tvg-logo="" group-title="MOVIE",Rakuten Top Movies UK (1080p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Reelz" tvg-logo="" group-title="MOVIE",Reelz
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Revry Her" tvg-logo="" group-title="MOVIE",Revry Her
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Rotana Cinema KSA (1080p)" tvg-logo="" group-title="MOVIE",Rotana Cinema KSA (1080p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Runtime Espanol (720p)" tvg-logo="" group-title="MOVIE",Runtime Espanol (720p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Spike Pluto TV" tvg-logo="" group-title="MOVIE",Spike Pluto TV
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Sundance TV East" tvg-logo="" group-title="MOVIE",Sundance TV East
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Teen Mom" tvg-logo="" group-title="MOVIE",Teen Mom
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Land Drama" tvg-logo="" group-title="MOVIE",TV Land Drama
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TVCARiB Cinema (720p) [Not 24/7]" tvg-logo="" group-title="MOVIE",TVCARiB Cinema (720p) [Not 24/7]
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TVS Drive In Movie (360p)" tvg-logo="" group-title="MOVIE",TVS Drive In Movie (360p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Victor Valley Movies (1080p) [Not 24/7]" tvg-logo="" group-title="MOVIE",Victor Valley Movies (1080p) [Not 24/7]
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Service" tvg-logo="" group-title="MOVIE",Service
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Xtrema Accion" tvg-logo="" group-title="MOVIE",Xtrema Accion
+https://xtrematv.com/?p=1434
+#EXTINF:-1 tvg-id="ext" tvg-name="30A Loomered TV" tvg-logo="" group-title="MOVIE",30A Loomered TV
+
+#EXTINF:-1 tvg-id="ext" tvg-name="GREAT! Mystery (1080p)" tvg-logo="" group-title="DOCUMENTARY",GREAT! Mystery (1080p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Crime 360 (720p)" tvg-logo="" group-title="DOCUMENTARY",Crime 360 (720p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Court TV (720p)" tvg-logo="" group-title="DOCUMENTARY",Court TV (720p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="RT Documentary English (1080p) [Geo-blocked]" tvg-logo="" group-title="DOCUMENTARY",RT Documentary English (1080p) [Geo-blocked]
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Law & Crime (720p)" tvg-logo="" group-title="DOCUMENTARY",Law & Crime (720p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="NatureTime" tvg-logo="" group-title="DOCUMENTARY",NatureTime
+
+#EXTINF:-1 tvg-id="ext" tvg-name="National Geographic Wild East" tvg-logo="" group-title="DOCUMENTARY",National Geographic Wild East
+
+#EXTINF:-1 tvg-id="ext" tvg-name="National Geographic Wild (1080i)" tvg-logo="" group-title="DOCUMENTARY",National Geographic Wild (1080i)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="National Geographic East" tvg-logo="" group-title="DOCUMENTARY",National Geographic East
+
+#EXTINF:-1 tvg-id="ext" tvg-name="National Geographic (1080i)" tvg-logo="" group-title="DOCUMENTARY",National Geographic (1080i)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="History 2 Latin America" tvg-logo="" group-title="DOCUMENTARY",History 2 Latin America
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Forensic Files" tvg-logo="" group-title="DOCUMENTARY",Forensic Files
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Filmrise True Crime (720p)" tvg-logo="" group-title="DOCUMENTARY",Filmrise True Crime (720p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Filmrise Forensic Files (720p)" tvg-logo="" group-title="DOCUMENTARY",Filmrise Forensic Files (720p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="FBI Files (720p)" tvg-logo="" group-title="DOCUMENTARY",FBI Files (720p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="CGTN Documentary (1080p)" tvg-logo="" group-title="DOCUMENTARY",CGTN Documentary (1080p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Asharq Documentary (1080p)" tvg-logo="" group-title="DOCUMENTARY",Asharq Documentary (1080p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Asharq Discovery (1080p) [Geo-blocked]" tvg-logo="" group-title="DOCUMENTARY",Asharq Discovery (1080p) [Geo-blocked]
+
+#EXTINF:-1 tvg-id="ext" tvg-name="DiscoverFilm" tvg-logo="" group-title="DOCUMENTARY",DiscoverFilm
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Dallas Cowboys Cheerleaders" tvg-logo="" group-title="CLASSIC MOVIE",Dallas Cowboys Cheerleaders
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Classique TV (360p)" tvg-logo="" group-title="CLASSIC MOVIE",Classique TV (360p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Classic Cinema (240p) [Not 24/7]" tvg-logo="" group-title="CLASSIC MOVIE",Classic Cinema (240p) [Not 24/7]
+
+#EXTINF:-1 tvg-id="ext" tvg-name="ABN Bible Movies (720p)" tvg-logo="" group-title="CLASSIC MOVIE",ABN Bible Movies (720p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="90s Throwback" tvg-logo="" group-title="CLASSIC MOVIE",90s Throwback
+
+#EXTINF:-1 tvg-id="ext" tvg-name="70s Cinema" tvg-logo="" group-title="CLASSIC MOVIE",70s Cinema
+
+#EXTINF:-1 tvg-id="ext" tvg-name="30A TV Classic Movies" tvg-logo="" group-title="CLASSIC MOVIE",30A TV Classic Movies
+
+#EXTINF:-1 tvg-id="ext" tvg-name="iFilm Arabic" tvg-logo="" group-title="ARABIC MOVIE",iFilm Arabic
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Aflam (1080p)" tvg-logo="" group-title="ARABIC MOVIE",Aflam (1080p)
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Afghan Nobel Movies (720p)" tvg-logo="" group-title="ARABIC MOVIE",Afghan Nobel Movies (720p)
+
