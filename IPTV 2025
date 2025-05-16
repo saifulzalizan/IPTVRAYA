@@ -83,197 +83,295 @@ https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:25,Service
 #EXTVLCOPT:network-caching=1000
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d4493aa2d690008f0a03f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21d081-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ca5a27f-794c-41ee-b51a-6fbe1b093d0b
-#EXTINF:-1 tvg-id="ext" tvg-name="AXN Asia (576p)" tvg-logo="" group-title="MOVIE",AXN Asia (576p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="American Horrors (480p)" tvg-logo="" group-title="MOVIE",American Horrors (480p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Dunia Sinema (1080p)" tvg-logo="" group-title="MOVIE",Dunia Sinema (1080p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Afriwood Blockbuster (720p)" tvg-logo="" group-title="MOVIE",Afriwood Blockbuster (720p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="AMC East (1080p)" tvg-logo="" group-title="MOVIE",AMC East (1080p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Black Cinema" tvg-logo="" group-title="MOVIE",Black Cinema
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Sony (720p)" tvg-logo="" group-title="MOVIE",Cine Sony (720p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine5 (720p)" tvg-logo="" group-title="MOVIE",Cine5 (720p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Service" tvg-logo="" group-title="MOVIE",Service
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Click TV (Coronel) (720p)" tvg-logo="" group-title="MOVIE",Click TV (Coronel) (720p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Crave 2" tvg-logo="" group-title="MOVIE",Crave 2
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Crave 4" tvg-logo="" group-title="MOVIE",Crave 4
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Dateline 24/7" tvg-logo="" group-title="MOVIE",Dateline 24/7
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Service" tvg-logo="" group-title="MOVIE",Service
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Flicks of Fury" tvg-logo="" group-title="MOVIE",Flicks of Fury
-
-#EXTINF:-1 tvg-id="ext" tvg-name="FXM East" tvg-logo="" group-title="MOVIE",FXM East
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Groovy TV (360p)" tvg-logo="" group-title="MOVIE",Groovy TV (360p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Hallmark Movies & More" tvg-logo="" group-title="MOVIE",Hallmark Movies & More
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Hallmark Movies Mysteries East" tvg-logo="" group-title="MOVIE",Hallmark Movies Mysteries East
-
-#EXTINF:-1 tvg-id="ext" tvg-name="PRO MIX" tvg-logo="" group-title="MOVIE",PRO MIX
-
-#EXTINF:-1 tvg-id="ext" tvg-name="iFilm English" tvg-logo="" group-title="MOVIE",iFilm English
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Ink Master" tvg-logo="" group-title="MOVIE",Ink Master
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Service" tvg-logo="" group-title="MOVIE",Service
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Lifetime Movies East" tvg-logo="" group-title="MOVIE",Lifetime Movies East
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Made in Hollywood" tvg-logo="" group-title="MOVIE",Made in Hollywood
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Maverick Black Cinema (1080p)" tvg-logo="" group-title="MOVIE",Maverick Black Cinema (1080p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="MBC Bollywood (1080p) [Geo-blocked]" tvg-logo="" group-title="MOVIE",MBC Bollywood (1080p) [Geo-blocked]
-
-#EXTINF:-1 tvg-id="ext" tvg-name="MBC+ Drama (1080p)" tvg-logo="" group-title="MOVIE",MBC+ Drama (1080p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="MGM+ East" tvg-logo="" group-title="MOVIE",MGM+ East
-
-#EXTINF:-1 tvg-id="ext" tvg-name="MGM+ Marquee" tvg-logo="" group-title="MOVIE",MGM+ Marquee
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Movies Action (1080p)" tvg-logo="" group-title="MOVIE",Movies Action (1080p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Movies Thriller (1080p)" tvg-logo="" group-title="MOVIE",Movies Thriller (1080p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="MovieSphere (1080p)" tvg-logo="" group-title="MOVIE",MovieSphere (1080p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="MyTime Movie Network" tvg-logo="" group-title="MOVIE",MyTime Movie Network
-
-#EXTINF:-1 tvg-id="ext" tvg-name="MyTime Movie Network Brazil (720p)" tvg-logo="" group-title="MOVIE",MyTime Movie Network Brazil (720p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="NETV Toronto (720p)" tvg-logo="" group-title="MOVIE",NETV Toronto (720p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="NEW K.MOVIES (1080p)" tvg-logo="" group-title="MOVIE",NEW K.MOVIES (1080p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="OuterMax East (720p)" tvg-logo="" group-title="MOVIE",OuterMax East (720p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Paramount Movie Channel" tvg-logo="" group-title="MOVIE",Paramount Movie Channel
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Paramount Network East" tvg-logo="" group-title="MOVIE",Paramount Network East
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Service" tvg-logo="" group-title="MOVIE",Service
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Action" tvg-logo="" group-title="MOVIE",Pluto TV Action
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Action" tvg-logo="" group-title="MOVIE",Pluto TV Action
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Animals" tvg-logo="" group-title="MOVIE",Pluto TV Animals
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Romance" tvg-logo="" group-title="MOVIE",Pluto TV Romance
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Spotlight" tvg-logo="" group-title="MOVIE",Pluto TV Spotlight
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Staff Picks" tvg-logo="" group-title="MOVIE",Pluto TV Staff Picks
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Terror" tvg-logo="" group-title="MOVIE",Pluto TV Terror
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Western" tvg-logo="" group-title="MOVIE",Pluto TV Western
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Western" tvg-logo="" group-title="MOVIE",Pluto TV Western
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Western" tvg-logo="" group-title="MOVIE",Pluto TV Western
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Westerns" tvg-logo="" group-title="MOVIE",Pluto TV Westerns
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Westerns" tvg-logo="" group-title="MOVIE",Pluto TV Westerns
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten Top Movies UK (1080p)" tvg-logo="" group-title="MOVIE",Rakuten Top Movies UK (1080p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Reelz" tvg-logo="" group-title="MOVIE",Reelz
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Revry Her" tvg-logo="" group-title="MOVIE",Revry Her
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Rotana Cinema KSA (1080p)" tvg-logo="" group-title="MOVIE",Rotana Cinema KSA (1080p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Runtime Espanol (720p)" tvg-logo="" group-title="MOVIE",Runtime Espanol (720p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Spike Pluto TV" tvg-logo="" group-title="MOVIE",Spike Pluto TV
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Sundance TV East" tvg-logo="" group-title="MOVIE",Sundance TV East
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Teen Mom" tvg-logo="" group-title="MOVIE",Teen Mom
-
-#EXTINF:-1 tvg-id="ext" tvg-name="TV Land Drama" tvg-logo="" group-title="MOVIE",TV Land Drama
-
-#EXTINF:-1 tvg-id="ext" tvg-name="TVCARiB Cinema (720p) [Not 24/7]" tvg-logo="" group-title="MOVIE",TVCARiB Cinema (720p) [Not 24/7]
-
-#EXTINF:-1 tvg-id="ext" tvg-name="TVS Drive In Movie (360p)" tvg-logo="" group-title="MOVIE",TVS Drive In Movie (360p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Victor Valley Movies (1080p) [Not 24/7]" tvg-logo="" group-title="MOVIE",Victor Valley Movies (1080p) [Not 24/7]
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Service" tvg-logo="" group-title="MOVIE",Service
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Xtrema Accion" tvg-logo="" group-title="MOVIE",Xtrema Accion
-https://xtrematv.com/?p=1434
-#EXTINF:-1 tvg-id="ext" tvg-name="30A Loomered TV" tvg-logo="" group-title="MOVIE",30A Loomered TV
-
-#EXTINF:-1 tvg-id="ext" tvg-name="GREAT! Mystery (1080p)" tvg-logo="" group-title="DOCUMENTARY",GREAT! Mystery (1080p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Crime 360 (720p)" tvg-logo="" group-title="DOCUMENTARY",Crime 360 (720p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Court TV (720p)" tvg-logo="" group-title="DOCUMENTARY",Court TV (720p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="RT Documentary English (1080p) [Geo-blocked]" tvg-logo="" group-title="DOCUMENTARY",RT Documentary English (1080p) [Geo-blocked]
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Law & Crime (720p)" tvg-logo="" group-title="DOCUMENTARY",Law & Crime (720p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="NatureTime" tvg-logo="" group-title="DOCUMENTARY",NatureTime
-
-#EXTINF:-1 tvg-id="ext" tvg-name="National Geographic Wild East" tvg-logo="" group-title="DOCUMENTARY",National Geographic Wild East
-
-#EXTINF:-1 tvg-id="ext" tvg-name="National Geographic Wild (1080i)" tvg-logo="" group-title="DOCUMENTARY",National Geographic Wild (1080i)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="National Geographic East" tvg-logo="" group-title="DOCUMENTARY",National Geographic East
-
-#EXTINF:-1 tvg-id="ext" tvg-name="National Geographic (1080i)" tvg-logo="" group-title="DOCUMENTARY",National Geographic (1080i)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="History 2 Latin America" tvg-logo="" group-title="DOCUMENTARY",History 2 Latin America
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Forensic Files" tvg-logo="" group-title="DOCUMENTARY",Forensic Files
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Filmrise True Crime (720p)" tvg-logo="" group-title="DOCUMENTARY",Filmrise True Crime (720p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Filmrise Forensic Files (720p)" tvg-logo="" group-title="DOCUMENTARY",Filmrise Forensic Files (720p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="FBI Files (720p)" tvg-logo="" group-title="DOCUMENTARY",FBI Files (720p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="CGTN Documentary (1080p)" tvg-logo="" group-title="DOCUMENTARY",CGTN Documentary (1080p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Asharq Documentary (1080p)" tvg-logo="" group-title="DOCUMENTARY",Asharq Documentary (1080p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Asharq Discovery (1080p) [Geo-blocked]" tvg-logo="" group-title="DOCUMENTARY",Asharq Discovery (1080p) [Geo-blocked]
-
-#EXTINF:-1 tvg-id="ext" tvg-name="DiscoverFilm" tvg-logo="" group-title="DOCUMENTARY",DiscoverFilm
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Dallas Cowboys Cheerleaders" tvg-logo="" group-title="CLASSIC MOVIE",Dallas Cowboys Cheerleaders
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Classique TV (360p)" tvg-logo="" group-title="CLASSIC MOVIE",Classique TV (360p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Classic Cinema (240p) [Not 24/7]" tvg-logo="" group-title="CLASSIC MOVIE",Classic Cinema (240p) [Not 24/7]
-
-#EXTINF:-1 tvg-id="ext" tvg-name="ABN Bible Movies (720p)" tvg-logo="" group-title="CLASSIC MOVIE",ABN Bible Movies (720p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="90s Throwback" tvg-logo="" group-title="CLASSIC MOVIE",90s Throwback
-
-#EXTINF:-1 tvg-id="ext" tvg-name="70s Cinema" tvg-logo="" group-title="CLASSIC MOVIE",70s Cinema
-
-#EXTINF:-1 tvg-id="ext" tvg-name="30A TV Classic Movies" tvg-logo="" group-title="CLASSIC MOVIE",30A TV Classic Movies
-
-#EXTINF:-1 tvg-id="ext" tvg-name="iFilm Arabic" tvg-logo="" group-title="ARABIC MOVIE",iFilm Arabic
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Aflam (1080p)" tvg-logo="" group-title="ARABIC MOVIE",Aflam (1080p)
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Afghan Nobel Movies (720p)" tvg-logo="" group-title="ARABIC MOVIE",Afghan Nobel Movies (720p)
-
+#EXTINF:180,30A Loomered TV
+#EXTVLCOPT:network-caching=1000
+https://30a-tv.com/loomer.m3u8
+#EXTINF:179,30A TV Classic Movies
+#EXTVLCOPT:network-caching=1000
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:25,70s Cinema
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263252-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c57f1f3-2078-4f92-a4b5-6cd444220a70
+#EXTINF:25,90s Throwback
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265961-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f86833-3dd6-41ac-a9b8-4a4ec8873306
+#EXTINF:60,ABN Bible Movies (720p)
+#EXTVLCOPT:network-caching=1000
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:30,Afghan Nobel Movies (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+#EXTINF:60,Aflam (1080p)
+#EXTVLCOPT:network-caching=1000
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+#EXTINF:60,Afriwood Blockbuster (720p)
+#EXTVLCOPT:network-caching=1000
+https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8
+#EXTINF:21,AMC East (1080p)
+#EXTVLCOPT:network-caching=1000
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:23,American Horrors (480p)
+#EXTVLCOPT:network-caching=1000
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+#EXTINF:86394,Asharq Discovery (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:86394,Asharq Documentary (1080p)
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:24,AXN Asia (576p)
+#EXTVLCOPT:network-caching=1000
+http://125hvt.ddns.net:21585/axn/index.m3u8
+#EXTINF:25,Black Cinema
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9
+#EXTINF:60,CGTN Documentary (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:96,Cine Sony (720p)
+#EXTVLCOPT:network-caching=1000
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:28,Cine5 (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:20,Classic Cinema (240p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d
+#EXTINF:30,Classique TV (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:22,Click TV (Coronel) (720p)
+#EXTVLCOPT:network-caching=1000
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
+#EXTINF:32,Court TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:23,Crave 2
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:24,Crave 4
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:48,Crime 360 (720p)
+#EXTVLCOPT:network-caching=1000
+https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
+#EXTINF:25,Dallas Cowboys Cheerleaders
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c40-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=92a113fc-f35c-4160-9c63-27cd8537a39f
+#EXTINF:120,Dateline 24/7
+#EXTVLCOPT:network-caching=1000
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+#EXTINF:36,DiscoverFilm
+#EXTVLCOPT:network-caching=1000
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:18,Dunia Sinema (1080p)
+#EXTVLCOPT:network-caching=1000
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdaa32a1b2fd00076693e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d95-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=53708f79-4a2b-4285-8fa6-e950fc36fb48
+#EXTINF:60,FBI Files (720p)
+#EXTVLCOPT:network-caching=1000
+https://apollo.production-public.tubi.io/live/ac-the-fbi-files.m3u8
+#EXTINF:60,Filmrise Forensic Files (720p)
+#EXTVLCOPT:network-caching=1000
+https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
+#EXTINF:60,Filmrise True Crime (720p)
+#EXTVLCOPT:network-caching=1000
+https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
+#EXTINF:25,Flicks of Fury
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca66-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=671a0e89-5b21-406b-95a9-b395c4ef4b07
+#EXTINF:25,Forensic Files
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92392a3e6270007f562e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=053b9371-9f0f-4936-9aa9-ae27ee69ae5f
+#EXTINF:20,FXM East
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:60,GREAT! Mystery (1080p)
+#EXTVLCOPT:network-caching=1000
+https://linear-861.frequency.stream/dist/lg-uk/861/hls/master/playlist.m3u8
+#EXTINF:26,Groovy TV (360p)
+#EXTVLCOPT:network-caching=1000
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:25,Hallmark Movies & More
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
+#EXTINF:24,Hallmark Movies Mysteries East
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:24,PRO MIX
+#EXTVLCOPT:network-caching=1000
+https://ffs3.gulfsat.com/hbc/index.m3u8
+#EXTINF:22,History 2 Latin America
+#EXTVLCOPT:network-caching=1000
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+#EXTINF:60,iFilm Arabic
+#EXTVLCOPT:network-caching=1000
+https://live.presstv.ir/hls/ifilmar.m3u8
+#EXTINF:60,iFilm English
+#EXTVLCOPT:network-caching=1000
+https://live.presstv.ir/hls/ifilmen.m3u8
+#EXTINF:25,Ink Master
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655f2d713944b60008bc7e90/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7ac9d2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e7b1d981-a145-4f0e-b936-2e3b59397aee
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac
+#EXTINF:90,Law & Crime (720p)
+#EXTVLCOPT:network-caching=1000
+https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
+#EXTINF:23,Lifetime Movies East
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:36,Made in Hollywood
+#EXTVLCOPT:network-caching=1000
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:36,Maverick Black Cinema (1080p)
+#EXTVLCOPT:network-caching=1000
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:60,MBC Bollywood (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:60,MBC+ Drama (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:24,MGM+ East
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:22,MGM+ Marquee
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:60,Movies Action (1080p)
+#EXTVLCOPT:network-caching=1000
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:60,Movies Thriller (1080p)
+#EXTVLCOPT:network-caching=1000
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:54,MovieSphere (1080p)
+#EXTVLCOPT:network-caching=1000
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:54,MyTime Movie Network
+#EXTVLCOPT:network-caching=1000
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:60,MyTime Movie Network Brazil (720p)
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:27,National Geographic (1080i)
+#EXTVLCOPT:network-caching=1000
+http://78.130.250.2:8023/play/a02e/index.m3u8
+#EXTINF:22,National Geographic East
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:27,National Geographic Wild (1080i)
+#EXTVLCOPT:network-caching=1000
+http://78.130.250.2:8023/play/a02c/index.m3u8
+#EXTINF:24,National Geographic Wild East
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:60,NatureTime
+#EXTVLCOPT:network-caching=1000
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:22,NETV Toronto (720p)
+#EXTVLCOPT:network-caching=1000
+https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
+#EXTINF:64,NEW K.MOVIES (1080p)
+#EXTVLCOPT:network-caching=1000
+https://ec3b4b7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/playlist.m3u8
+#EXTINF:22,OuterMax East (720p)
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:25,Paramount Movie Channel
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+#EXTINF:24,Paramount Network East
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
+#EXTINF:25,Pluto TV Action
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
+#EXTINF:25,Pluto TV Action
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055171-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c3b67254-4628-4f0e-8164-5a50e8969a42
+#EXTINF:25,Pluto TV Animals
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac633-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ec05d93-5fee-4979-91ea-f6de241d3f06
+#EXTINF:25,Pluto TV Romance
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1459-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=195653a1-6a75-4cb6-b94d-0fe4a7594dba
+#EXTINF:25,Pluto TV Spotlight
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b64-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a26dc013-1780-409c-9a56-09ae4538fe40
+#EXTINF:25,Pluto TV Staff Picks
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b65-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c2fde2b7-d78e-4906-abf2-3c433f73ec5b
+#EXTINF:25,Pluto TV Terror
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b67-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbd5d7ff-a6cc-4ad9-bb5f-d0f36c75fc29
+#EXTINF:25,Pluto TV Western
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630dd3b2605f140007e002f5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2049e2-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=59d31236-c94c-43d9-a034-2227dea980c8
+#EXTINF:25,Pluto TV Western
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cca3e2ec452d0008af3a65/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e074d44-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bae761e4-0e1a-4102-8f5e-fa657934946c
+#EXTINF:25,Pluto TV Western
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630dd3b2605f140007e002f5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea9-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f9be2fb-9bfd-4c1e-8963-ba4370795ff3
+#EXTINF:25,Pluto TV Westerns
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdacc96a3751000811842d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb435-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d87a47e-6b0e-40e2-88e1-8631bfba1316
+#EXTINF:25,Pluto TV Westerns
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6272-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e8336d8-e46b-4f0f-86ff-ba6f9678d77a
+#EXTINF:36,Rakuten Top Movies UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:18,Reelz
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
+#EXTINF:60,Revry Her
+#EXTVLCOPT:network-caching=1000
+https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
+#EXTINF:16,Rotana Cinema KSA (1080p)
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:43200,RT Documentary English (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:60,Runtime Espanol (720p)
+#EXTVLCOPT:network-caching=1000
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+#EXTINF:21,Spike Pluto TV
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb098-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7817c7c9-18cd-4d07-835d-350e94a68d2b
+#EXTINF:24,Sundance TV East
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:25,Teen Mom
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3f05505e621000783df2f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d811-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ed84458b-d963-4758-88f3-5745e78c08a4
+#EXTINF:25,TV Land Drama
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e762bb7-572b-4470-87fd-b3b4bb48462e
+#EXTINF:24,TVCARiB Cinema (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
+#EXTINF:20,TVS Drive In Movie (360p)
+#EXTVLCOPT:network-caching=1000
+https://bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:15,Victor Valley Movies (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b4d6c806ad2a00073b3108/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c0-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d329ef28-8c5a-4451-bc8a-ab7d7083f320
+#EXTINF:28,Xtrema Accion
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
+#EXTVLCOPT:network-caching=1000
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
